@@ -1,12 +1,18 @@
-# 🧠 Low-Level Design with Python
+# Low-Level Design with Python
 
 This repository is a Python-based collection of Low-Level Design (LLD) concepts, design patterns, and real-world design problem solutions.
 
-## 🎯 Objective
+## Objective
 
 To create a structured and exhaustive LLD reference in Python that prepares engineers for LLD interviews and improves object-oriented design thinking.
 
-## 📚 Sections
+### Key points
+
+"Identify the aspects of your application that vary and separate them from stays the same"
+
+"Program to an interface not an implementation. Favor composition over inheritance."
+
+## Sections
 
 ### 1. Basics
 Understand the foundations of OOP in Python including:
@@ -45,7 +51,7 @@ Each problem includes:
 ### 4. System Designs (Optional Extension)
 Document-based high-level + low-level designs for scalable services.
 
-## 🛠 Technologies
+## Technologies
 
 - Python 3.10+
 - `dataclasses`, `abc`, `typing`
@@ -56,14 +62,14 @@ Document-based high-level + low-level designs for scalable services.
 
 - Java version of this repository (by [@Shubham1698](https://github.com/shubham1698/LLD)) [→ link to repo]
 
-## 🙋‍♂️ Author
+## Author
 
 Tanmay Saxena  
 [LinkedIn](https://www.linkedin.com/in/tanmay--saxena/) · [GitHub](https://github.com/jawsenigma)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/jawsenigma/lld-with-python.git
