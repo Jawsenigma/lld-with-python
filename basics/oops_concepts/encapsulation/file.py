@@ -5,7 +5,8 @@ class Vehicle:
         self.color = color
         self.mileage = mileage
 
-    def vehicle_tpye(self):
+    def vehicle_type(self):
         return vehicle_type
 
-        
+
+
