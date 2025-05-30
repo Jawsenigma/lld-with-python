@@ -66,7 +66,7 @@ Tanmay Saxena
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/lld-with-python.git
+git clone https://github.com/jawsenigma/lld-with-python.git
 cd lld-with-python
 pip install -r requirements.txt
 pytest
