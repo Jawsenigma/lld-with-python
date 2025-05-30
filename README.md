@@ -54,12 +54,12 @@ Document-based high-level + low-level designs for scalable services.
 
 ## 🔗 Related
 
-- Java version of this repository (by [@Shubham1698](https://github.com/shubham1698)) [→ link to repo]
+- Java version of this repository (by [@Shubham1698](https://github.com/shubham1698/LLD)) [→ link to repo]
 
 ## 🙋‍♂️ Author
 
 Tanmay Saxena  
-[LinkedIn](https://www.linkedin.com/in/tanmay-saxena/) · [GitHub](https://github.com/jawsenigma)
+[LinkedIn](https://www.linkedin.com/in/tanmay--saxena/) · [GitHub](https://github.com/jawsenigma)
 
 ---
 
